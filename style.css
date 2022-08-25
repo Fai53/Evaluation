@@ -1,0 +1,7 @@
+.nav{
+    background-color: aqua;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+}
